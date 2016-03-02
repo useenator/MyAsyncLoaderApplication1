@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My AsyncLoader Application 1</string>
+
+
+    <array name="strings_items">
+        <item>ahmed</item>
+        <item>mehdi</item>
+        <item>zaki</item>
+        <item>mohamed</item>
+        <item>latifa</item>
+        <item>zohra</item>
+        <item>fati</item>
+        <item>aicha</item>
+        <item>dej</item>
+        <item>ali</item>
+        <item>abbi</item>
+
+    </array>
+</resources>
