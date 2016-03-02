@@ -24,8 +24,6 @@ public class StringsLoaderTask extends AsyncTaskLoader<List<String>> {
     public List<String> loadInBackground() {
         String[] data= getContext().getResources().getStringArray(R.array.strings_items);
         List<String> strings = Arrays.asList(data);
-        //make some delay
-        try {Thread.sleep(4000);} catch (InterruptedException e) {e.printStackTrace();}
 
 
         return strings;
